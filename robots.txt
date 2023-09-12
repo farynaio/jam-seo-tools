@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /404.html
 
-Sitemap: https://jamseotools.com/sitemap.xml
+Sitemap: https://seotools.faryna.io/sitemap.xml
